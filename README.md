@@ -1,7 +1,7 @@
 # Bike Sharing Demand Prediction:
 This is a linear regression model that predicts the demand for bike sharing for Boombikes, a bike-sharing company. The model uses historical bike rental data along with weather data to make accurate predictions.
 
-# Installation
+## Installation
 To install and run this project on your local machine, follow these steps:
 git clone https://github.com/<JatinTaiwala>/Bike_sharing_demand_prediction.git
 cd Bike_sharing_demand_prediction
