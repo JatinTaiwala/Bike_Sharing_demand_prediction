@@ -20,7 +20,7 @@ Results
 The model was able to accurately predict bike rental demand for Boombikes based on historical rental data and weather information. The results show that the demand for bike rentals is higher on weekdays and during rush hour, and is also affected by weather conditions such as temperature, humidity, and windspeed.
 
 Contributors
-This project was developed by [Your Name].
+This project was developed by Jatin Taiwala.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
