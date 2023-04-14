@@ -1,4 +1,4 @@
-# Bike Sharing Demand Prediction:
+# Helped A Bike Renting Service Predict Their Demand:
 This is a linear regression model that predicts the demand for bike sharing for Boombikes, a bike-sharing company. The model uses historical bike rental data along with weather data to make accurate predictions.
 
 ## Installation
